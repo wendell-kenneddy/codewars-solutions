@@ -1,0 +1,14 @@
+{
+  "name": "codewars-solutions",
+  "description": "Repository of my Codewars challenges solutions.",
+  "author": "Wendell Kenneddy",
+  "version": "1.0.0",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "jest": "^27.4.7"
+  },
+  "scripts": {
+    "test": "jest"
+  }
+}
